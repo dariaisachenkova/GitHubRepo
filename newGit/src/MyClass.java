@@ -3,7 +3,7 @@
  */
 public class MyClass {
  //fffffsgллdfbsdfgb
-    wkrjbfs
+    //wkrjbfs
 }
 
 
